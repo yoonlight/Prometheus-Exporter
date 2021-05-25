@@ -1,0 +1,1 @@
+docker build --target bin --output bin/ .
